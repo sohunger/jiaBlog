@@ -14,6 +14,7 @@
         <module>jia_access</module>
         <module>jia_data</module>
         <module>jia_service</module>
+        <module>jia_commons</module>
     </modules>
 
     <properties>
